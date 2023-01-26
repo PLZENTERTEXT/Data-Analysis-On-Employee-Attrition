@@ -20,9 +20,8 @@ The data attributes in the sample dataset (employee_attrition.csv) are as follow
 | STATUS_YEAR | Year of status |
 | STATUS | Employee status in company |
 | BUSINESS_UNIT | Business unit of employee |
-
-
-The data attributes after data pre-processing are as follows:
+  
+  The data attributes after data pre-processing are as follows:
 
 | **Column Number** | **Column**         | **Datatype** |
 |:-------------------|:--------------------|:--------------|
