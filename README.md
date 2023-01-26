@@ -1,0 +1,22 @@
+The data attributes in the sample dataset are as follows:
+
+| Data Attribute | Description |
+| :------------ |:--------------- |
+| EmployeeID | Employee identity code |
+| recorddate_key | Employee record date (Year of data) |
+| birthdate_key | Employee birth date |
+| orighiredate_key | Employee hired date |
+| terminationdate_key | Employee termination date |
+| age | Employee age |
+| length_of_service | Length of service in year |
+| city_name | City Name |
+| department_name | Department Name |
+| job_title | Job Title |
+| store_name | Store Code |
+| gender_short | Gender in short |
+| gender_full | Gender in full |
+| termreason_desc | Reason of termination |
+| termtype_desc | Type of termination |
+| STATUS_YEAR | Year of status |
+| STATUS | Employee status in company |
+| BUSINESS_UNIT | Business unit of employee |
